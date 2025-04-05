@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"discord.enabled": true,
+		"liveServer.settings.port": 5501
+	}
+}
